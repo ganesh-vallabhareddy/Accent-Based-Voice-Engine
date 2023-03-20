@@ -25,14 +25,11 @@ This is a Voice Engine built with Python and Streamlit that can generate speech 
 There are several potential uses for the Accent-Based Speech Engine, including in business,
 education, entertainment, and customer service.
 
-1)This technology can be used to produce audio content for language learners who want
+- This technology can be used to produce audio content for language learners who want
 to enhance their listening skills.
-  
-2)It can also be used to produce voiceovers for movies, video games, and other forms of
+- It can also be used to produce voiceovers for movies, video games, and other forms of
 entertainment.
-  
-3)This technique can be used in customer care to offer tailored assistance in a variety of
+- This technique can be used in customer care to offer tailored assistance in a variety of
 accents to clients from across the world.
-  
-4)This technology is also helpful for entrepreneurs when two people from two separate
+- This technology is also helpful for entrepreneurs when two people from two separate
 nations are having a formal conversation.

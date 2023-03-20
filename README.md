@@ -4,7 +4,7 @@ This is a Voice Engine built with Python and Streamlit that can generate speech 
 
 > After installing the required packages, you can run the program by running the following command:
 
-### streamlit run <file name>.py
+### streamlit run file_name.py
 
 
 ## How to Use

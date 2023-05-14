@@ -1,8 +1,6 @@
 # Accent-Based-Voice-Engine
 
-This is a Voice Engine built with Python and Streamlit that can generate speech in different accents based on user input. The user can enter any text, select an accent, and generate a voice in that accent with the click of a button.
-
-> After installing the required packages, you can run the program by running the following command:
+This is a Voice Engine built with Python and Streamlit that can generate speech in different accents based on user input.It allows you to input text and select from a variety of accents to generate the corresponding voice.
 
 # Accent Based Voice Engine
 
@@ -13,12 +11,6 @@ This project is a web-based voice assistant that generates speech using the Goog
 1. Clone this repository
 2. Install the required dependencies
 3. Run the application: `streamlit run app.py`
-
-
-
-
-### streamlit run file_name.py
-
 
 ## Usage
 
@@ -69,21 +61,6 @@ The application supports the following accents:
 - US
 - Vietnamese
 - Welsh
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-## How to Use
-1)Enter the text you want to convert to speech in the text input box.
-  
-2)Select the accent you want to use from the dropdown menu.
-  
-3)Click the "Generate a Voice" button to generate the speech in the selected accent.
-  
-4)The audio file will be generated and you can hear that.
 
   
 ## This is how the Web Interface of my Application looks like

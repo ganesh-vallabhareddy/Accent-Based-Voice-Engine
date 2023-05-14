@@ -4,6 +4,19 @@ This is a Voice Engine built with Python and Streamlit that can generate speech 
 
 > After installing the required packages, you can run the program by running the following command:
 
+# Accent Based Voice Engine
+
+This project is a web-based voice assistant that generates speech using the Google Text-to-Speech (gTTS) library. It allows you to input text and select from a variety of accents to generate the corresponding voice.
+
+## Installation
+
+1. Clone this repository
+2. Install the required dependencies
+3. Run the application: `streamlit run app.py`
+
+
+
+
 ### streamlit run file_name.py
 
 

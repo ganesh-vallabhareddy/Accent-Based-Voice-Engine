@@ -7,6 +7,62 @@ This is a Voice Engine built with Python and Streamlit that can generate speech 
 ### streamlit run file_name.py
 
 
+## Usage
+
+1. Open the application in your web browser.
+2. Enter the desired text in the input field.
+3. Select the accent from the dropdown menu.
+4. Click the "Generate a Voice" button to generate the speech.
+5. The generated audio will be played back and displayed on the page.
+
+## Available Accents
+
+The application supports the following accents:
+
+- Arabic
+- Australian
+- Brazilian Portuguese
+- British
+- Canadian English
+- Canadian French
+- Chinese
+- Danish
+- Dutch
+- Finnish
+- Filipino
+- French
+- German
+- Hebrew
+- Hong Kong English
+- Indian
+- Indonesian
+- Irish
+- Italian
+- Japanese
+- Korean
+- Malaysian English
+- Mexican Spanish
+- New Zealand
+- Norwegian
+- Portuguese
+- Russian
+- Scottish
+- Singaporean English
+- South African
+- Spanish
+- Swedish
+- Thai
+- Turkish
+- US
+- Vietnamese
+- Welsh
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
 ## How to Use
 1)Enter the text you want to convert to speech in the text input box.
   

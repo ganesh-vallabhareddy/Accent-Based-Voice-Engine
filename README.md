@@ -1,10 +1,6 @@
 # Accent-Based-Voice-Engine
 
-This is a Voice Engine built with Python and Streamlit that can generate speech in different accents based on user input.It allows you to input text and select from a variety of accents to generate the corresponding voice.
-
-# Accent Based Voice Engine
-
-This project is a web-based voice assistant that generates speech using the Google Text-to-Speech (gTTS) library. It allows you to input text and select from a variety of accents to generate the corresponding voice.
+This is a Voice Engine built with Python that can generate speech in different accents based on user input and the web interface is built using Streamlit.This allows you to input text and select from a variety of accents to generate the corresponding voice.
 
 ## Installation
 
